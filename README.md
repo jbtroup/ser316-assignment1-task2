@@ -9,3 +9,4 @@ feature1: change
 dev: line for rebase
 feature2: change A
 dev baseline
+feature1 change
