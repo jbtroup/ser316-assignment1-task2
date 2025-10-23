@@ -1,0 +1,12 @@
+/build/
+/bin/
+/out/
+/target/
+/.gradle/
+*.class
+*.log
+.idea/
+/.vscode/
+.DS_Store
+__MACOSX/
+._*
